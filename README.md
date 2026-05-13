@@ -3,7 +3,7 @@
  
 Full-stack web application for retail demand forecasting, inventory optimization, and financial KPI analysis. Built with Flask, Prophet + Random Forest ensemble, and a real-time async worker architecture.
  
-**[Live App →](https://retail-dasboard-v2flask-production.up.railway.app/auth/register)**
+**[Live App link →](https://retail-dasboard-v2flask-production.up.railway.app/auth/register)**
  
 ---
 
